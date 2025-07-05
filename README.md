@@ -14,7 +14,7 @@ A cette phase de pre-inscriptemandeur une école peut s'inscrire comme un tenant
 L'école fournit ses données légales (nom de l'établissement, pôle de formation, format d'enseignement, année d'immatriculation, adresse du siège, pièces justificatives, nom du representant, prenom du representant, telephone, email)
 les ecole proposent des "Cours en ligne animés par un instructeur" ou des "Formations en classe".
 
-# fiche Techniaue
+# fiche Technique
 Fonctionnalités à implémenter
 
 1. Backend de Préinscription d'une école avec téléversement du justificatif d'établissement
